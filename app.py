@@ -123,7 +123,7 @@ if any(w in worry_text for w in pendulum_words):
         "ボールに当てようと思いすぎると力んじゃう"
         "軸がブレブレになっていないか確認してみよう"
         "無理な体の使い方はしないでね✨"
-    )
+ )
 
 style = "A"  # デフォルト
 
