@@ -103,7 +103,6 @@ compact_words = [
 focus_hint = ""
 if any(w in worry_text for w in hit_fail_words):
     focus_hint = (
-focus_hint = (
     "クラブフェースが正しい方向を向いてるか確認"
     "利き手で振子をイメージして素振り😊"
     "ゴルフスイングの原理原則は、『振り子運動』と『叩く動作』"
