@@ -34,6 +34,12 @@ mode = st.radio(
     "相談モードを選んでください",
     ["練習相談", "ラウンド相談"]
 )
+if not api_key:
+    st.error("OPENAI_API_KEY が見つかりません。.env にキーを設定してね。")
+    st.stop()
+
+client = OpenAI(api_key=api_key)
+
 if mode == "ラウンド相談":
     st.subheader("🏌️‍♀️ 藤ゴルAIラウンド相談室")
 
@@ -124,11 +130,7 @@ st.markdown("""
 st.caption("エンジョイゴルファー応援団です😊⛳")
 
 
-if not api_key:
-    st.error("OPENAI_API_KEY が見つかりません。.env にキーを設定してね。")
-    st.stop()
 
-client = OpenAI(api_key=api_key)
 
 # ---- UI: intake ----
 st.subheader("① まず今の状態を教えてね")
