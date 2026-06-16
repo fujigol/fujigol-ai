@@ -317,7 +317,7 @@ st.markdown(
     "👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr)"
 )
 
-    st.stop()
+st.stop()
 
 st.markdown("""
 このAIは、  
