@@ -320,6 +320,7 @@ AIはその場のアドバイスが得意😊
     "👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr)")
 
 
+
     st.stop()
 
 
