@@ -317,8 +317,8 @@ AIはその場のアドバイスが得意😊
 """)
 
                 st.markdown(
-                    "👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr)")
-       
+    "👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr)"
+)       
 
     st.stop()
 
