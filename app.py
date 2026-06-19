@@ -307,12 +307,11 @@ AIはその場のアドバイスが得意😊
 でも実際のスイングやラウンドのお悩みは、
 一緒に確認するともっと楽になることもあるよ⛳✨
 気軽にLINEで相談してね💜")
-st.markdown("👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr)")
+st.markdown("👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr)""")
 
 st.stop()
 
-st.markdown("""
-このAIは、  
+st.markdown("""このAIは、  
 「クラブを正しく使う」から考えるゴルフ相談です⛳  
 
 うまく当たらない、怖い、わからない…  
