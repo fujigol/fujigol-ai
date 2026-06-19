@@ -739,7 +739,7 @@ AIは「考え方の整理」までが得意だけど、
 気が向いたらLINEで気軽に声かけて😊💜
 """)
 
-st.markdown(
+st.link_button(
     "💚 藤ゴル公式LINEはこちら",
     "https://lin.ee/x7HCxPr"
 )
