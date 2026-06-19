@@ -317,7 +317,8 @@ AIはその場のアドバイスが得意😊
 """)
 
                 st.markdown(
-                    "👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr")
+                    "👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr)"
+)
        
 
     st.stop()
@@ -737,4 +738,5 @@ AIは「考え方の整理」までが得意だけど、
 """)
 
 st.markdown(
-    "👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr")
+    "👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr)"
+)
