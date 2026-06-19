@@ -307,19 +307,18 @@ LINEから気軽に声をかけてね😊💜
                 st.markdown("---")
 
 
-                st.markdown("""
+                                st.markdown("""
 💜 **もっと詳しく相談したい方へ**
-
 
 AIはその場のアドバイスが得意😊
 でも実際のスイングやラウンドのお悩みは、
 一緒に確認するともっと楽になることもあるよ⛳✨
-気軽にLINEで相談してね💜""")
-                
+気軽にLINEで相談してね💜
+""")
 
-                 st.markdown(
-"👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr)"
-)
+                st.markdown(
+                    "👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr)"
+                )
 
     st.stop()
 
