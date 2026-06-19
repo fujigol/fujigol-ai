@@ -322,7 +322,7 @@ AIはその場のアドバイスが得意😊
 )
 
 
-     st.stop()
+    st.stop()
 
 
 st.markdown("""このAIは、  
