@@ -307,7 +307,7 @@ LINEから気軽に声をかけてね😊💜
                 st.markdown("---")
 
 
-                                st.markdown("""
+                st.markdown("""
 💜 **もっと詳しく相談したい方へ**
 
 AIはその場のアドバイスが得意😊
@@ -317,12 +317,12 @@ AIはその場のアドバイスが得意😊
 """)
 
                 st.markdown(
-                    "👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr)"
-                )
+                    "👉 [💚 藤ゴル公式LINEはこちら](https://lin.ee/x7HCxPr")
+       
 
     st.stop()
 
-st.markdown("""このAIは、  
+                st.markdown("""このAIは、  
 「クラブを正しく使う」から考えるゴルフ相談です⛳  
 
 うまく当たらない、怖い、わからない…  
