@@ -318,7 +318,7 @@ AIはその場のアドバイスが得意😊
 
                 st.link_button(
     "💚 藤ゴル公式LINEはこちら",
-    '<a href="https://lin.ee/yp5UwQCw"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>'
+    "https://lin.ee/VrGhwuQ"
 )
 
 
@@ -741,5 +741,5 @@ AIは「考え方の整理」までが得意だけど、
 
 st.link_button(
     "💚 藤ゴル公式LINEはこちら",
-    '<a href="https://lin.ee/yp5UwQCw"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>'
+    "https://lin.ee/VrGhwuQ"
 )
